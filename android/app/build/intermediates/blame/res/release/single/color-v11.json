@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/alexey/.android/build-cache/153c09353066647bc4d8063b073adb0d39d43dd5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/alexey/.android/build-cache/153c09353066647bc4d8063b073adb0d39d43dd5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/d40de26a8accfdfde748cbf8d08e1148ff28d747/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_7eaee0c882adb77177c4811988f55938c4d776d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_96740cbbf62002378e4d66d786f9abda5427647a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/d40de26a8accfdfde748cbf8d08e1148ff28d747/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1_7651f8088e1ad176c9f0af788fce615b44b1685e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/312c49490e0c084af8bc991e76646ee78a53b8c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_8974a4ab5669fb1d5daf95ba7b672c55af65be19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b27b1c4a2769ae034b436b47ee836e4380b3dea">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_816821b6d5cc688c41e2fd7f47e5b93a93f08dfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/c754d869013d30c93132ca85332f75700d04bd7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_f007e4f34b40d8a0b499d5f9657aca6773c033f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_15182dc31b50da23c5ee2054c03f9fb69ef97092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f5051dd42e8e5b08ad54f8231e45f79abacc0ab">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_103ad6bd5d63149532bad2b40ea61b84946a61e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/f3aa2d2a058505802716eab466fc7a1ac2e9a8f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_e28ae6f00bc4ecc44634810139a320754086ae47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/node_modules/react-native-config/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed4df09b8b822429565b8f4e44a35422bdab0c32">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_5a2e52920399f542bfca363fdeac06485b43e9ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/metadata-extractor-2.9.1_d8ff654a166e575cb8087d434c5a862c363ba148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_0dd8a45ed3a3cae50e2e8697185b837faffe1e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/c754d869013d30c93132ca85332f75700d04bd7a/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_4651dd9d7cb5c93bdcc68cc239153084334dd816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/3f9ff1aef7e7328ca509ab59f4dc90819c50816a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_63fdd69940dad63748d6e795a9c25e7d713fad1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/f9de45b48be6fe03c88133b9bf73fe6a942624a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_695489f4a9ee8eff5dfa68ec727d38790b059527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_ba571e4dba5a34e3de270190774c77286d1cdc25.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3271ce1b845870326de83846b0eab81c7a2b6d80/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/javax.inject-1_11e56b343fe2fcf82f832f6fb3a73df11fa83de0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/library-2.4.0_1d0e018e4ffdfc09330b64e5c4567ab660df6b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/cee692300095af8f5b392ea194a3f3d6afb5e3e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_4cd958faae0d2fccb29e6e8547b2acade49fd453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/be8b2a6c1353066121a73c7c16afa9c0c9072615/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_7cc2cd5f5ca6c0648503d400925411e7a9d256d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/xmpcore-5.1.2_6993b470b5c2aa6a29e5bfc6c7c86107d84bf7a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/core-3.2.1_787b61c671c0af2b5b3a21f2025209fdea3e28d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/153c09353066647bc4d8063b073adb0d39d43dd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_6f5105b02cb9ca60e997756adfc00c96ec010e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_15537a56100fb3e19f877ca83717f1866fd338e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/d55995a8a1ac92982ff0accea279ea080fe1e408/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_814a916dab6cec851d4edada5d9a59a6fc1ed9d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.android/build-cache/fbac0b0406c48aa36c995c7b2e119748b9e72115/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_56b452506824cefc3523dee472e3a66c6f65ccd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/classes_4e40baf1039ab0ecd937870898ebce6b35decaae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK_2/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1_49ea9998e373d3923f837c24f11a78104d8067fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alexey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/WORK_4/ReactNative/GreetDesk/proj/greetdesk-react/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_d4d4b80e03429a20063a05cd9e1b1cb66b2118db.jar" />
+    </item>
+
+</items>
